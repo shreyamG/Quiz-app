@@ -1,8 +1,6 @@
 # Quiz_app
 Simple quiz app which many of us can relate to our jee prep time :)
 
-My First Flutter project.
-
 <!---
 ## Getting Started
 
